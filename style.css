@@ -1,0 +1,400 @@
+align-content {
+  stretch
+  flex-start
+  flex-end
+  center
+  space-between
+  space-around
+  space-evenly
+}
+
+align-itmes {
+  stretch
+  flex-start
+  flex-end
+  center
+  baseline
+}
+
+align-self {
+  auto
+  stretch
+  flex-start
+  flex-end
+  center
+  baseline
+}
+
+animation-direction {
+  normal
+  reverse
+  alternate
+  alternate-reverse
+}
+
+animation-fll-mode {
+  none
+  forwards
+  backwards
+  both
+}
+
+animation-play-state {
+  running
+  paused
+}
+
+animation-timing-function {
+  ease
+  linear
+  ease-in
+  ease-out
+  ease-in-out
+  cubic-bezier(0, 0, 1, 1)
+}
+
+backface-visibility {
+  visible
+  hidden
+}
+
+background-attachment {
+  scroll
+  fixed
+  local
+}
+
+background-blend-mode {
+  normal
+  multiply
+  screen
+  color
+  color-dodge
+  darken
+  lighten
+  overlay
+  saturation
+  luminosity
+}
+
+background-clip {
+  border-box
+  padding-box
+  content-box
+}
+
+background-origin {
+  padding-box
+  content-box
+  border-box
+}
+
+background-position {
+  left-top
+  left-center
+  left-bottom
+  center-top
+  center-center
+  center-bottom
+  right-top
+  right-center
+  right-bottom
+  50% 50%
+  100px 80px
+}
+
+background-repeat {
+  repeat
+  repeat-x
+  repeat-y
+  no-repeat
+  round
+  space
+}
+
+background-size {
+  auto
+  contain
+  cover
+  100px 50px
+}
+
+border {
+  none
+  hidden
+  solid
+  double
+  dotted
+  dashed
+  ridge
+  groove
+  inset
+  outset
+}
+
+border-radius {
+  top-left
+  top-right
+  bottom-right
+  bottom-left
+}
+
+border-collaspe {
+  separate
+  collaspe
+}
+
+border-image-repeat {
+  stretch
+  repeat
+  round
+}
+
+border-width {
+  medius
+  thin
+  thick
+  length
+}
+
+box-sizing {
+  content-box
+  border-box
+}
+
+caption-side {
+  top
+  bottom
+}
+
+clear {
+  none
+  left
+  right
+  both
+}
+
+column-fill {
+  balance
+  auto
+}
+
+column-span {
+  none
+  all
+}
+
+display {
+  none
+  inline
+  block
+  inline-block
+  flex
+  grid
+}
+
+empty-cell {
+  show 
+  hide
+}
+
+filter {
+  none
+  blur
+  brightness
+  contrast
+  drop-shadow
+  grayscale
+  hue-rotate
+  invert
+  opacity
+  saturate
+  sepia
+}
+
+flex-direction {
+  row
+  row-reverse
+  column
+  column-reverse
+}
+
+flex-wrap {
+  nowrap
+  wrap 
+  wrap-reverse
+}
+
+
+float {
+  none
+  left
+  right
+}
+
+font-size {
+  xx-small
+  x-small
+  small
+  medium
+  large
+  x-large
+  xx-large
+}
+
+font-style {
+  normal
+  italic
+  oblique
+}
+
+font-variant {
+  normal
+  small-caps
+}
+
+isolation {
+  auto
+  isolate
+}
+
+jsutify-content {
+  flex-start
+  flex-end
+  center
+  space-between
+  space-around
+  space-evenly
+}
+
+list-style-position {
+  outside
+  inside
+}
+
+list-style-type {
+  disc 
+  circle 
+  square 
+  upper-roman
+  lower-alpha
+}
+
+mix-blend-mode {
+  normal
+  multiply
+  screen
+  scroll
+  color
+  color-dodge 
+  darken 
+  lighten 
+  overlay 
+  saturation 
+  color-burn 
+  difference 
+  exclution 
+  hue
+}
+
+object-fill {
+  fill 
+  contain
+  cover
+  none
+  scale-down
+}
+
+overflow {
+  visible 
+  hidden 
+  auto 
+  scroll 
+}
+
+pointer-event {
+  auto 
+  none
+}
+
+position {
+  static
+  sticky 
+  fixed 
+  relative
+  absolute
+}
+
+scroll-behavior {
+  auto
+  smooth
+}
+
+text-decoration-line {
+  none
+  underline 
+  overline 
+  line-through 
+}
+
+text-decoration-style {
+  solid
+  dotted 
+  dashed 
+  wavy
+}
+
+text-transform {
+  none 
+  uppercase 
+  lowercase
+  capitalize
+}
+
+transition-timing-function {
+  ease 
+  linear 
+  ease-in 
+  ease-out 
+  ease-in-out 
+  cubic-bezier
+}
+
+user-select {
+  auto 
+  none 
+  text 
+  all
+}
+
+visibility {
+  visible
+  hidden
+  collapse 
+}
+
+white-space {
+  normal
+  nowrap
+  pre
+  prewrap
+  pre-line
+}
+
+word-break {
+  normal
+  break-all
+  keep-all
+  break-word
+}
+
+word-wrap {
+  normal
+  break-word
+}
+
+writing-mode {
+  horizontal-tb
+  vertical-rl
+  vertical-lr
+}
